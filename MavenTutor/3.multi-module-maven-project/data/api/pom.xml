@@ -14,9 +14,5 @@
     <description>Data Access API.</description>
 	
 	<dependencies>
-        <dependency>
-            <groupId>com.kaka.maven</groupId>
-            <artifactId>multi-module-model</artifactId>
-        </dependency>
     </dependencies>
 </project>
